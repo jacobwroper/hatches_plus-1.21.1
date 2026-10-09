@@ -1,0 +1,8 @@
+{
+  "loader": "modern_industrialization:machine",
+  "casing": "superconductor",
+  "default_overlays": {
+    "side": "modern_industrialization:block/machines/hatch_item/overlay_side",
+    "item_auto": "modern_industrialization:block/overlays/item_auto"
+  }
+}

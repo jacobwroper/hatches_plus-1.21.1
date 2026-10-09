@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "hatches_plus:infinite_water_hatch",
+    "hatches_plus:stocking_item_input_hatch",
+    "hatches_plus:stocking_item_output_hatch"
+  ]
+}

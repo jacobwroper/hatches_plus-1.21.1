@@ -1,0 +1,7 @@
+{
+  "loader": "modern_industrialization:machine",
+  "casing": "superconductor",
+  "default_overlays": {
+    "side": "hatches_plus:block/machines/infinite_water_hatch/overlay_side"
+  }
+}

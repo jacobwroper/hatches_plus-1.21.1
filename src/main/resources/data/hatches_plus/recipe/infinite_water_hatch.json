@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PHP",
+    "PSP",
+    "PWP"
+  ],
+  "key": {
+    "P": {
+      "tag": "c:plates/iridium"
+    },
+    "H": {
+      "item": "modern_industrialization:highly_advanced_fluid_input_hatch"
+    },
+    "S": {
+      "item": "modern_industrialization:singularity"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "id": "hatches_plus:infinite_water_hatch",
+    "count": 1
+  }
+}

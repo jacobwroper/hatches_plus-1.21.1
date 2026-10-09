@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.jwr.hatchesplus.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ConfigurableItemStackAccessor",
+    "ConfigurableItemStackMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
